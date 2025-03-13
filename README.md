@@ -1,6 +1,5 @@
 # Connected-Vision-Datasets
-<p align="center"> The table below provides an overview of various publicly available vision datasets used in action recognition, anomaly detection, and human activity recognition. Each dataset varies in terms of class diversity, resolution, and application focus. </p>
-
+<p align="center">List of Connected Vision Datasets. </p>
 | #  | Dataset                                   | No of Classes | <p align="center">Description </p> |
 |----|--------------------------------------------|--------------|-------------|
 | 1  | [NTU RGB+D](https://rose1.ntu.edu.sg/dataset/actionRecognition/) | 120 | <p align="justify"> This dataset is a large-scale, multi-view dataset with RGB, IR, Depth, and Skeleton modalities, featuring 100,000+ video sequences. It is captured from 106 subjects, three views, and 155 viewpoints. The data offers 96 illuminations and background variations, with videos averaging 3 seconds at 30 FPS. </p>|
